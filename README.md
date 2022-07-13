@@ -1,6 +1,6 @@
 
 # Hi there 👋, my name is Hasnain Karim
-I am a Full Stack Javascript Developer. I am here is to design and develop effective and intuitive softwares which will bring a change in human lives while continuing to learn and expand my knowledge of latest software technologies.
+I am a Full Stack Javascript Developer. I design and develop effective and intuitive softwares which will bring a change in human lives while continuing to learn and expand my knowledge of latest software technologies.
 
 - 🌱 I’m currently learning Blockchain 
 
@@ -35,7 +35,6 @@ I am a Full Stack Javascript Developer. I am here is to design and develop effec
 ![](https://github-readme-streak-stats.herokuapp.com/?user=h26k2&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=h26k2&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=h26k2&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 
 
 
